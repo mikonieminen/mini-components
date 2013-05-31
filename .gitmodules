@@ -4,3 +4,6 @@
 [submodule "mini-promise"]
 	path = mini-promise
 	url = git@github.com:mikonieminen/mini-promise.git
+[submodule "events"]
+	path = events
+	url = git@github.com:mikonieminen/events.git
