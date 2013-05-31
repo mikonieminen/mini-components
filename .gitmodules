@@ -1,0 +1,3 @@
+[submodule "mini-module"]
+	path = mini-module
+	url = git@github.com:mikonieminen/mini-module.git
