@@ -1,3 +1,6 @@
 [submodule "mini-module"]
 	path = mini-module
 	url = git@github.com:mikonieminen/mini-module.git
+[submodule "mini-promise"]
+	path = mini-promise
+	url = git@github.com:mikonieminen/mini-promise.git
