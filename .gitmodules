@@ -8,7 +8,7 @@
 	branch = master
 [submodule "events"]
 	path = events
-	url = git@github.com:mikonieminen/events.git
+	url = git@github.com:mikonieminen/mini-events.git
 	branch = master
 [submodule "mini-http"]
 	path = mini-http
