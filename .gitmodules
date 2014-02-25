@@ -7,3 +7,6 @@
 [submodule "events"]
 	path = events
 	url = git@github.com:mikonieminen/events.git
+[submodule "mini-http"]
+	path = mini-http
+	url = ./mini-http
