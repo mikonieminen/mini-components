@@ -14,3 +14,6 @@
 	path = mini-http
 	url = git@github.com:mikonieminen/mini-http.git
 	branch = master
+[submodule "mini-events"]
+	path = mini-events
+	url = git@github.com:mikonieminen/mini-events.git
