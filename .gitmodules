@@ -9,4 +9,4 @@
 	url = git@github.com:mikonieminen/events.git
 [submodule "mini-http"]
 	path = mini-http
-	url = ./mini-http
+	url = git@github.com:mikonieminen/mini-http.git
