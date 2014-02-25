@@ -17,3 +17,4 @@
 [submodule "mini-events"]
 	path = mini-events
 	url = git@github.com:mikonieminen/mini-events.git
+	branch = master
