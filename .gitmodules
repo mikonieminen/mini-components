@@ -6,10 +6,6 @@
 	path = mini-promise
 	url = git@github.com:mikonieminen/mini-promise.git
 	branch = master
-[submodule "events"]
-	path = events
-	url = git@github.com:mikonieminen/mini-events.git
-	branch = master
 [submodule "mini-http"]
 	path = mini-http
 	url = git@github.com:mikonieminen/mini-http.git
